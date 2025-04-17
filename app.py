@@ -1,7 +1,7 @@
 import os
 import time
 
-input_folder = 'ascii/ 
+input_folder = 'ascii'
 frame_count = 384  
 
 def show_frame(frame_number):
