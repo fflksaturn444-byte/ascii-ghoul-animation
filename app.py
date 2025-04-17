@@ -2,7 +2,7 @@ import os
 import time
 
 input_folder = 'ascii'
-frame_count = 384  
+frame_count = 201
 
 def show_frame(frame_number):
     file_path = os.path.join(input_folder, f"{frame_number}.txt")
